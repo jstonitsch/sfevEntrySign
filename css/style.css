@@ -5,6 +5,7 @@
 
 #date {
 	margin-right: 10px;
+	margin-top: 30px;
 }
 
 #header {
@@ -19,9 +20,32 @@
 
 .welcomeMsg {
 	text-align: center;
-	padding-bottom: 15px;
+	margin-top: 10px;
+	margin-bottom: 0px;
 }
 
 .date {
 	text-align: right;
+}
+
+.recentDeliveries {
+	text-align: center;
+}
+
+span {
+	text-align: center;
+	font-size: 48px;
+	font-weight: 800;
+}
+
+dt {
+	text-align: center;
+	font-size: 36px;
+	font-weight: 700;
+}
+
+dd {
+	text-align: center;
+	font-size: 20px;
+	margin-left: 0px;
 }
