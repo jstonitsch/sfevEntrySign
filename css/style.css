@@ -32,6 +32,13 @@
 	text-align: center;
 }
 
+.map {
+	display: block;
+  	height: 100%;
+  	margin-left: 5%;
+  	margin-right: 5%;
+}
+
 span {
 	text-align: center;
 	font-size: 48px;
