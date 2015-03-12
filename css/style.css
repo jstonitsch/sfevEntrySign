@@ -32,11 +32,18 @@
 	text-align: center;
 }
 
-.map {
-	display: block;
-  	height: 100%;
-  	margin-left: 5%;
-  	margin-right: 5%;
+#map {
+  display: block;
+  height: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20px;
+}
+
+#mapDiv {
+  height: 900px;
+  width: 900px;
+  padding-bottom: 5%;
 }
 
 span {

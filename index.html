@@ -8,6 +8,7 @@
 	<!-- <script src="//code.jquery.com/jquery-1.11.1.min.js"></script> -->
 	<script src="js/jQuery.js"></script>
 	<script src="js/moment.js"></script>
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places"></script>
 	 <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -25,25 +26,12 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-6 map">
+			<div id="mapDiv" class="col-lg-6">
+				<div id="map"></div>
 			</div>
 			<div class="col-lg-6 recentDeliveries">
 				<span>Recent Deliveries</span>
-				<dl>
-					<dt>West Palm Beach</dt>
-					<dd>Custom Pumper</dd>
-					<dt>Orlando<dt>
-					<dd>Heavy Rescue</dd>
-					<dt>Orlando</dt>
-					<dd>SP95 Platform Ladder</dd>
-					<dt>Orlando</dt>
-					<dd>SP95 Platform Ladder</dd>
-					<dt>St. Petersburg
-					<dd>SL100 Ladder</dd>
-					<dt>St. Petersburg</dt>
-					<dd>SL75 Ladder</dd>
-					<dt>South Pasadena<dt>
-					<dd>SP70 Platform Ladder</dd>
+				<dl id="deliveryEntry">
 				</dl>
 			</div>
 		</div>
