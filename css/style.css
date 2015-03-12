@@ -1,10 +1,10 @@
 #container {
-	width: 1920px;
+	width: 1900px;
 	height: 1080px;
 }
 
 #date {
-	margin-right: 10px;
+	margin-right: 25px;
 	margin-top: 30px;
 }
 
@@ -12,6 +12,11 @@
 	background-color: #990000;
 	color: white;
 	height: 100px;
+	margin-top: 20px;
+}
+
+#deliveryEntry {
+	margin-top: 40px;
 }
 
 .headerimg {
@@ -30,6 +35,7 @@
 
 .recentDeliveries {
 	text-align: center;
+	margin-top: 50px;
 }
 
 #map {
@@ -37,7 +43,7 @@
   height: 100%;
   margin-left: 5%;
   margin-right: 5%;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 #mapDiv {
@@ -50,12 +56,14 @@ span {
 	text-align: center;
 	font-size: 48px;
 	font-weight: 800;
+	margin-bottom: 20px;
 }
 
 dt {
 	text-align: center;
 	font-size: 36px;
 	font-weight: 700;
+	margin-top: 20px;
 }
 
 dd {
