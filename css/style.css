@@ -21,6 +21,7 @@
 
 .headerimg {
 	height: 100px;
+	margin-left: 25px;
 }
 
 .welcomeMsg {
@@ -63,7 +64,7 @@ dt {
 	text-align: center;
 	font-size: 36px;
 	font-weight: 700;
-	margin-top: 20px;
+	margin-top: 15px;
 }
 
 dd {

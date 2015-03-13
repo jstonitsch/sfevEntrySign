@@ -13,33 +13,33 @@ var deliveries = {
 		},
 		{
 			"departmentName" : "Orlando Fire Department",
-			"vehicleType" : "Sutphen SVI Heavy Rescue",
+			"vehicleType" : "Sutphen SVI Heavy Rescue<br>Sutphen SP95 Platform<br>Sutphen SP95 Platform",
 			"location" : "Orlando, FL",
 		},
 		{
-			"departmentName" : "Orlando Fire Department",
-			"vehicleType" : "Sutphen SP95 Platform",
-			"location" : "Orlando, FL",
-		},
-		{
-			"departmentName" : "Orlando Fire Department",
-			"vehicleType" : "Sutphen SP95 Platform",
-			"location" : "Orlando, FL",
+			"departmentName" : "Pembroke Pines Fire Department",
+			"vehicleType" : "Sutphen S3 Pumper",
+			"location" : "Pembroke Pines, FL",
 		},
 		{
 			"departmentName" : "St. Petersburg Fire Department",
-			"vehicleType" : "Sutphen SL100 Ladder",
+			"vehicleType" : "Sutphen SL100 Ladder<br>Sutphen SL75",
 			"location" : "Saint Petersburg, FL",
-		},
-		{
-			"departmentName" : "St. Petersburg Fire Department",
-			"vehicleType" : "Sutphen SL75 Ladder",
-			"location" : "St. Petersburg, FL",
 		},
 		{
 			"departmentName" : "South Pasadena Fire Department",
 			"vehicleType" : "Sutphen SP70 Platform",
 			"location" : "South Pasadena, FL",
+		},
+		{
+			"departmentName" : "Boynton Beach Fire Department",
+			"vehicleType" : "Sutphen SL75 Ladder",
+			"location" : "Boynton Beach, FL",
+		},
+		{
+			"departmentName" : "Hernando Beach Fire Department",
+			"vehicleType" : "Sutphen S2 Pumper",
+			"location" : "Hernando Beach, FL",
 		},
 	],
 	"display" : function () {
